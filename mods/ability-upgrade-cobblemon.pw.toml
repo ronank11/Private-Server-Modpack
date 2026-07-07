@@ -1,0 +1,13 @@
+name = "Ability Upgrade - Cobblemon"
+filename = "ability-upgrade-cobblemon-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XWn1feZf/versions/BEvZdel3/ability-upgrade-cobblemon-1.2.jar"
+hash-format = "sha512"
+hash = "c62793d47232a8d293c6f2128c1f2f59fefd56bc32f69916aadfbef3613ebe536c7e2ee31c28f75c1fdb302913e8b021566101f343f87abebdde2b6aaf614300"
+
+[update]
+[update.modrinth]
+mod-id = "XWn1feZf"
+version = "BEvZdel3"

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "b33466d8c233472c0166210cfb5f00826e01832655ebd5f9f0225c31049328ee"
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
 metafile = true
@@ -2526,40 +2530,9 @@ file = "mods/AiosSuperCoolRecipesV1.0.1.zip"
 hash = "aaaa902e187ba4fbecb40e35bb9ae79752408952313f9aff4d226939106a2d49"
 
 [[files]]
-file = "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
-hash = "07f449b7766845883523ffadb8fb706ec011c1212aa378b48bea5841188f0b04"
-
-[[files]]
-file = "mods/CarryOnAeroCompat-1.21.1-1.1.1.jar"
-hash = "7cb883e81261b309815e5256d1548a0fc0ec45df9966c118fb794ddaab7c9df0"
-
-[[files]]
-file = "mods/Cobblemon-neoforge-1.7.3+1.21.1.jar"
-hash = "8e4355d0722d8842b3cfac1a76957d48f194b39fcebe7471fb23deef1831e2c3"
-
-[[files]]
-file = "mods/Cobbreeding-neoforge-2.2.1.jar"
-hash = "f0022f992bf935c649ae85dd15d416f209be0f04bbeffe61cd0d64568202d0e7"
-
-[[files]]
-file = "mods/Cosmetic Megas [v1.3-mod].jar"
-hash = "4439dd62b81ba9254a34c719a90562b717b61d98b89c7f156d4af9b3c5782723"
-
-[[files]]
-file = "mods/Create-Accessories-Compat.jar"
-hash = "fef9d4a14e2c7cdaf4f7f49ba223ff4c3fbd1b9eb8333e967df5fde072b3be3d"
-
-[[files]]
-file = "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
-hash = "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae"
-
-[[files]]
-file = "mods/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
-hash = "b320b47f1791f56df9e1a05138f0e312e6e54541945ff15f2f1fd398cd1d4d9d"
-
-[[files]]
-file = "mods/ability-upgrade-cobblemon-1.2.jar"
-hash = "f84ee6d2d3a038d7d9171d89a402bcdcb4527f02c84ea19927964894348fa84f"
+file = "mods/ability-upgrade-cobblemon.pw.toml"
+hash = "5b76c40510e3ce815636c197315cb1a74aea0f6f8cf17aee18ac191def9fa17d"
+metafile = true
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -2622,8 +2595,9 @@ hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
 
 [[files]]
-file = "mods/balm-neoforge-1.21.1-21.0.59.jar"
-hash = "b6e9959269120b11351f0430ebbfc15fddb655592b9fe85dd829503e43654cac"
+file = "mods/balm.pw.toml"
+hash = "7d5659cf745f95eedf7a907184698eb950d5ef067d011da028b72a578642fe90"
+metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
@@ -2634,10 +2608,6 @@ metafile = true
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
-
-[[files]]
-file = "mods/berryharvester-1.21.1-1.0.jar"
-hash = "51ded6cd037f7faefec09ce588dc943c4d4c009e4cc0b5a06422bff902aa2e6e"
 
 [[files]]
 file = "mods/better-modlist-neoforge.pw.toml"
@@ -2666,7 +2636,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
+hash = "4b200d7009a78ce1d782d0b20585fcde46e6791bf23edf22a799a60729e924fd"
 metafile = true
 
 [[files]]
@@ -2700,8 +2670,9 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
-file = "mods/cobbled-armour-trims-3.0.jar"
-hash = "fe5f56a5cf89eaa3669a8bb9446ecc81c4d41d5fa55d80cf406f2547484cc680"
+file = "mods/cobbled-armour-trims.pw.toml"
+hash = "31998ac5e2fa6272004507b9e5c17b5945d4cee02c6a9c9174621b3363fa9bae"
+metafile = true
 
 [[files]]
 file = "mods/cobbledex-rei-emi-jei.pw.toml"
@@ -2749,10 +2720,6 @@ hash = "0f2a9ba512081d234429f95b6cf2a46c2a3dd2c2b99314cc32ca4cbe8b7d49a5"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-pc-on-a-stick-1.3.2.jar"
-hash = "08dff0528775ae2c2e9c37b81cd26130c53ca035f442b2f283f8944eda7a0e11"
-
-[[files]]
 file = "mods/cobblemon-perfect-partners.pw.toml"
 hash = "3034459876dd395ff06a7cb61fafcec18272570fed2fd9b659c555590c783f16"
 metafile = true
@@ -2793,8 +2760,9 @@ hash = "7a00d699e85e0cb7f92d4fbafa19c1c9dd649c991b52a4b834cfcda5ce43da23"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonpokemonbadges-neoforge-0.1.1.jar"
-hash = "d83a258679132455eaf248e4a11c118f61a94e1f6e6446c6911bf51ec4b4f5db"
+file = "mods/cobblemon.pw.toml"
+hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
+metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
@@ -2817,6 +2785,11 @@ hash = "d620299518e8056403e4e7cb649700235ce2c0164eaa5c03a6c242ac605afc3b"
 metafile = true
 
 [[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "51eaca16f5120b750d8a67d42245e0599753d3874839267a4816387a4ae1ae24"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "caa4e3766c73df23fb3e11042ecd64119bff17ae0f82291210d6b1e236d9ded9"
 metafile = true
@@ -2832,8 +2805,9 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
-file = "mods/cookingforblockheads-neoforge-1.21.1-21.1.23.jar"
-hash = "d14f8cce74dc4f59906d209b25c53655a522acd3fbdf59e5ab3bb50a090f4f2d"
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "9edfcf5022b68ae0234b2d5c15b710fc3f27407d84aeeb917615dffbd42c8b92"
+metafile = true
 
 [[files]]
 file = "mods/copper-age-backport.pw.toml"
@@ -2867,7 +2841,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetic-megas.pw.toml"
-hash = "06d8e568b14a0a7dc8e38d0c59d7225a9a112150f9f37806d941031a3c57daa2"
+hash = "6ac12f60c400f982e819b9498eaa6373e9287f359ad1cb26fcf3c8e97029b40d"
 metafile = true
 
 [[files]]
@@ -2996,12 +2970,8 @@ hash = "2f8f16f4688e813ad634eb26780afa6b29257964474a2a18b83db3092142ed5a"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-2.5.0-preview-alpha1.jar"
-hash = "b25cc57696e6a26fef16437d88f3fe5a2690090e6f9728b6c72ca3e945cb07eb"
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "be0036035951859b6dd8ae612acbbdd403f838c284a180459d36726ca259933d"
+hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
 metafile = true
 
 [[files]]
@@ -3070,6 +3040,11 @@ hash = "73ffac269e3ce480c7dd3a17e7f2f027e73727fcc375d4e1cef4c490cdd36686"
 metafile = true
 
 [[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
+metafile = true
+
+[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "ace252b6b7f35f95dd486c4c38125be1ab4e5dd0edc30c7c665411f739c971f7"
 metafile = true
@@ -3088,10 +3063,6 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
-
-[[files]]
-file = "mods/create_trimmed.jar"
-hash = "77c94f473baee87f89bd6793da0e3425c578425ca31af148b2840221ea79f19a"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -3219,14 +3190,6 @@ hash = "919bac8b36a180748d2a575572572e75ebbe63a96814b0f93990a8e1e0769826"
 metafile = true
 
 [[files]]
-file = "mods/extra-move-anims-cobblemon-1.7v1.0.2.jar"
-hash = "320ad2cf0b905b3d162cb3b6dcda2cdbe18e7bb4ad3874acd1516c78c1a0b2af"
-
-[[files]]
-file = "mods/farmers-cutting-biomes-o-plenty-2.0.0.jar"
-hash = "9fb30ba63cd1da67c22b5bb551b6aba9110affb696e1a511f88c14c4d848940f"
-
-[[files]]
 file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
 hash = "44030876800c6a4cb0be4f78a906db0c230dea8f60007afbbd67262f194e0751"
 metafile = true
@@ -3250,10 +3213,6 @@ metafile = true
 file = "mods/forge-config-api-port.pw.toml"
 hash = "59f128a861d4a40554c1e276c1c55a80f3e8befd515f622abe95b5768b0635c6"
 metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
 
 [[files]]
 file = "mods/free-cam.pw.toml"
@@ -3306,6 +3265,11 @@ hash = "26211469f250c2c31a9dd9ee7fe673064c927958be9a9b8753395274cbe1ecee"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
+metafile = true
+
+[[files]]
 file = "mods/golden-dandelion-mod.pw.toml"
 hash = "fc7e2d3e04e1b030c6f602f9987eb276d830bd60e774376fb06d78432d6266d5"
 metafile = true
@@ -3326,13 +3290,14 @@ hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
+file = "mods/inventory-essentials.pw.toml"
+hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
 
 [[files]]
-file = "mods/inventoryessentials-neoforge-1.21.1-21.1.15.jar"
-hash = "b7a5c5526a45256551543419ba2b5d54e56c585d76a645a8cea8cb8ea843ae2c"
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
+metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
@@ -3356,7 +3321,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+hash = "e22f8ce274c0473d3ce96d67766cd9420651d2bd6712371eb025cd2b6e39ec53"
 metafile = true
 
 [[files]]
@@ -3376,7 +3341,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
@@ -3450,14 +3415,6 @@ hash = "57485eb785aadaa7bb36b82ada7032b0af8bad0a701fda159ab48a85458518ef"
 metafile = true
 
 [[files]]
-file = "mods/matthiesen-lib-api-neoforge-1.7.1.jar"
-hash = "ccb781de3ba28899ae7b3260527636285d3049e544bdc456457834d84c08efdd"
-
-[[files]]
-file = "mods/matthiesen-lib-neoforge-1.7.1.jar"
-hash = "4ac7b9759a7a2f594f199421a9f6028d2581c93b90a1aa461b1e3f617834762c"
-
-[[files]]
 file = "mods/mcmouser.pw.toml"
 hash = "6b421aa2fa6669feab19e4f43e92b706d501ddf57f226e01748a3e5d0f83d0fb"
 metafile = true
@@ -3483,8 +3440,9 @@ hash = "ed15b5acd3a5531cdc4007d294b618e4be2f6ba216343de49c9d17a49ae81ce5"
 metafile = true
 
 [[files]]
-file = "mods/moonlight-neoforge-1.21.1-3.0.14.jar"
-hash = "7ec257edce1d4783d3a5143f3f237dd060d3140a2dfcf46522a5052111072acd"
+file = "mods/moonlight.pw.toml"
+hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
+metafile = true
 
 [[files]]
 file = "mods/morecobblemontweaks.pw.toml"
@@ -3517,8 +3475,9 @@ hash = "074fc5e191a6bcc79da17ffb5f51107a6e0778591ff5f1381f9663615e0eb928"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar"
-hash = "242267afa324352130adb2263a5667e421c6f4c573ad0dfe0565971255ea5a1e"
+file = "mods/netherportalfix.pw.toml"
+hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
@@ -3586,21 +3545,14 @@ hash = "ed816a4574588c1d994fd152c024bc888737c2d5b5bd5a1314705e97e8462d9a"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "2c257ee5f2c8a3454e423610b61d113cf736c86b7b1f5079dc8e119346a0d7a0"
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
 metafile = true
 
 [[files]]
-file = "mods/refinedstorage-curios-integration-1.0.0.jar"
-hash = "4d7a5f555595641315c49d0baac2eb7f74319cf3eb3aad0813b855161547c60d"
-
-[[files]]
-file = "mods/refinedstorage-jei-integration-neoforge-1.0.0.jar"
-hash = "18d858a9309f2cacfa1b32c43142d543b5cfc4e2cb542b66203dd5c81f974c27"
-
-[[files]]
-file = "mods/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar"
-hash = "c6f00a8dc5707726a6252aa57690d2b8d90fb350dd7f92817276efc16e8af186"
+file = "mods/refined-storage.pw.toml"
+hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
+metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
@@ -3738,8 +3690,9 @@ hash = "d9a5b02ffd50154e99ef15135e2929282055071efd75fee2b510bf9acb734148"
 metafile = true
 
 [[files]]
-file = "mods/trade-cycling-neoforge-1.21.1-1.0.18.jar"
-hash = "dc1dc7ddcff62689e6d02212dbae33e54ecd906242bd8c2700be25e63aa93bba"
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
+metafile = true
 
 [[files]]
 file = "mods/tweakerge.pw.toml"
@@ -3807,6 +3760,11 @@ hash = "7cb2156566e58df780f1e1248bc7c336fda5be86d8e5828e3485b951e3934471"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "6d6e832992f8af3bfd90232e3582e4e11eb42901d16a747a81eea5b811489be3"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
 hash = "a383e14bfb10544f993b68c1b5054be9364043878ba965091612fe100f55220c"
 metafile = true
@@ -3839,6 +3797,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts-neoforge.pw.toml"
 hash = "a8145065cddbb2e4110de30af522f39dc666d2834537f87cd062c969c38fb978"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e43a2ee91cb22f300d2e693141c31e92958034a5e51ebfbdacb30d61dce153b2"
 metafile = true
 
 [[files]]
@@ -3889,6 +3852,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fully-hisuian-starters.pw.toml"
 hash = "d31fd9110eb8020b9129a4082ede43522e97ad8f2c30d58f2b8282ae39111b51"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-fresh.pw.toml"
+hash = "21f19123eb37d3bb48d100cff35b06db83519d9eb52bee62df92960b24095500"
 metafile = true
 
 [[files]]
