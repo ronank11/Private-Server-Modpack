@@ -1,0 +1,13 @@
+name = "Cobblemon: PC on a Stick"
+filename = "cobblemon-pc-on-a-stick-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lFXeuYGz/versions/ttOQR8WU/cobblemon-pc-on-a-stick-1.3.2.jar"
+hash-format = "sha512"
+hash = "385856109694f02f465cc0bb6b4658a58507191f84d93667720d652aa9bb0b31c23644c7cf4a9637417ff6459d746f559e46cc832fe006f19bc7bf209acbbc4d"
+
+[update]
+[update.modrinth]
+mod-id = "lFXeuYGz"
+version = "ttOQR8WU"

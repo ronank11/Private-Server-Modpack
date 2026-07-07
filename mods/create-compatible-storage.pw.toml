@@ -3,11 +3,11 @@ filename = "create_compatible_storage-2.11.0-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8b16de39c6a741bea1472285271b1c269d5c0df5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5ofroZ5W/versions/Lo7RlFHl/create_compatible_storage-2.11.0-neoforge.jar"
+hash-format = "sha512"
+hash = "645dde7fbc7090bfae58e2c83f8669e4fe2eea247cb1348bd0920b3053baeb7e400f70ea4672ae56833860198daaa8a757a879f0ae238198def3d0d586bee284"
 
 [update]
-[update.curseforge]
-file-id = 7909653
-project-id = 1247573
+[update.modrinth]
+mod-id = "5ofroZ5W"
+version = "Lo7RlFHl"

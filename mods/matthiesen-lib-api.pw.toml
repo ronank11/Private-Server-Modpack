@@ -1,0 +1,13 @@
+name = "Matthiesen Lib API"
+filename = "matthiesen-lib-api-neoforge-1.11.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/j2JrSWnx/versions/mIU5vyW5/matthiesen-lib-api-neoforge-1.11.0.jar"
+hash-format = "sha512"
+hash = "5913e9f9603dac124954174eb939d9a888df817f2e57fcf028bbe9118e7bd26aa342d9388197e22db8fe1c9e790840d3b669aa217ff90a806d70967e304c1212"
+
+[update]
+[update.modrinth]
+mod-id = "j2JrSWnx"
+version = "mIU5vyW5"

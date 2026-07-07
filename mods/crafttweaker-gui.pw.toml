@@ -1,13 +1,13 @@
 name = "CraftTweaker GUI"
 filename = "ctgui-neoforge-1.21.1-0.3.2.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "2710c3d306550f32b97e03c207c0c227a772650e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FPG0nezA/versions/6j61IVyh/ctgui-neoforge-1.21.1-0.3.2.jar"
+hash-format = "sha512"
+hash = "4503aafe3aea10e42725d948d165ac2e01aa08a411197f0379bfe63ce7ec8b676bc3dd5d8e396fcf9e85a512ed3e0ac27d10b60080747a5de4ab2814db1531b8"
 
 [update]
-[update.curseforge]
-file-id = 8187349
-project-id = 1006304
+[update.modrinth]
+mod-id = "FPG0nezA"
+version = "6j61IVyh"

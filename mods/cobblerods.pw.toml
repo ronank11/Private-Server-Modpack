@@ -3,11 +3,11 @@ filename = "CobbleRods-neoforge-1.0.1+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "82ae39b227f223d74d0a9cfc93a4aa7e4f2e3ee5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vrrcnWlG/versions/zeQRfldL/CobbleRods-neoforge-1.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "388e2ad901919008f40d2ff2e67fc762b8d522817af7158d1ff20ef1342d28c9a7a4f8e0519c7cd9216a1b0e1b4b63b864d27eac06c02ff18947784ac7bbd810"
 
 [update]
-[update.curseforge]
-file-id = 7671054
-project-id = 1459660
+[update.modrinth]
+mod-id = "vrrcnWlG"
+version = "zeQRfldL"

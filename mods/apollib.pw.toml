@@ -1,0 +1,13 @@
+name = "Apollib"
+filename = "apollib-1.1.5-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDI2Ytax/versions/C8Ae5Wk7/apollib-1.1.5-neoforge-21.1.jar"
+hash-format = "sha512"
+hash = "c165aca0842f90066389e2834319e3d865ca8cc3b26e027b97743d68229ab13625e66fd03ebfc3799e05338e09f32ada08e434d809716bcbed3406b78c9853ad"
+
+[update]
+[update.modrinth]
+mod-id = "VDI2Ytax"
+version = "C8Ae5Wk7"

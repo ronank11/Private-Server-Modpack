@@ -3,11 +3,11 @@ filename = "mcwbyg-neoforge-1.21.1-1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2510e4d5a0217935c8b9239e42ac54b568001f68"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/s4B19O5h/versions/UIM6ZYR1/mcwbyg-neoforge-1.21.1-1.6.jar"
+hash-format = "sha512"
+hash = "ac981abad604af2e987a9a42c84ab26396dea7b821d583db714aeb5f093d68bd7728ddb6322d6e8cab9554e5f4c328473c43fba4a87185adb6c5e9cbaf4f48c8"
 
 [update]
-[update.curseforge]
-file-id = 7370045
-project-id = 535960
+[update.modrinth]
+mod-id = "s4B19O5h"
+version = "UIM6ZYR1"

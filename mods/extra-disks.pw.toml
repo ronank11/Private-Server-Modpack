@@ -3,11 +3,11 @@ filename = "ExtraDisks-1.21.1-4.0.15.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d2b4a80b1770e8cae2bc233774ed7ed4abd81510"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Tlo2tahX/versions/otODJ5cv/ExtraDisks-1.21.1-4.0.15.jar"
+hash-format = "sha512"
+hash = "82ad61fc3348f383d1ad46754b703c750b4582f1c8583e90b0714aef52866fe9c2ab5299055a940f8c6974e845daf00858e183b01ac89300c78a0c64297f5efb"
 
 [update]
-[update.curseforge]
-file-id = 8031115
-project-id = 351491
+[update.modrinth]
+mod-id = "Tlo2tahX"
+version = "otODJ5cv"

@@ -1,13 +1,13 @@
 name = "ModList Command"
 filename = "modscmd-neoforge-1.0.2.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "6d6d853237f4f4bceb8937e34ac4b4f087228d00"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Bx6i1J4x/versions/Ho4lhj2e/modscmd-neoforge-1.0.2.jar"
+hash-format = "sha512"
+hash = "056fb43c8b6c075c0a4a647a06fef47280d1d7e5983e63b19a82f47ebbade8bbf3c264573195f7e94ef14ab733ae14aac56e2a12c8bb992cb56ea8d7a9d6a844"
 
 [update]
-[update.curseforge]
-file-id = 6617029
-project-id = 1103376
+[update.modrinth]
+mod-id = "Bx6i1J4x"
+version = "Ho4lhj2e"

@@ -3,11 +3,11 @@ filename = "mounts_of_mayhem-1.9.8-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc5b3dbf024c89a4c97f05f2e67974edd36c5e6a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3vLDJ86g/versions/sUIV5Mqp/mounts_of_mayhem-1.9.8-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c20ec904c54d0151e767b6364243f94ff3e9fbe61a6481bf57804678cfb2728aa33d04b63056a18c7dd378d866c7b21d8a1bad518a40177b3a0d45e606eec095"
 
 [update]
-[update.curseforge]
-file-id = 7657453
-project-id = 1355251
+[update.modrinth]
+mod-id = "3vLDJ86g"
+version = "sUIV5Mqp"
