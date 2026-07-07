@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"simulated:red_portable_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:poke_snack"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

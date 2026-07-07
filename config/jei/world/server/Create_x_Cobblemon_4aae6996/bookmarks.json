@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"cobbled_counter:counter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"zacian","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":"zamazenta","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"}
+]

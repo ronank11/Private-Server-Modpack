@@ -1,0 +1,23 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:soul_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:gold_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:granite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:red_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"rayquaza","type":"com.cobbledex.jei.PokemonIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_base"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:dirt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:torch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cobblestone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:smooth_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:schematic_and_quill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betternether:nether_ruby_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"betternether:flaming_ruby_sword","components":{"minecraft:enchantments":{"levels":{"betternether:ruby_fire":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_red"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:poke_snack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:pokedex_black"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:belt_connector"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

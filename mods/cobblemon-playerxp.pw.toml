@@ -1,0 +1,13 @@
+name = "Cobblemon: PlayerXP"
+filename = "playerxp-neoforge-1.0.9+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6812cb62b249eb2d011a79c0010f531d4339286d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7886114
+project-id = 1261726

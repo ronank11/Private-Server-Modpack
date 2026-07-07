@@ -1,0 +1,13 @@
+name = "Nautilus & Spears | Mounts of Mayhem"
+filename = "mounts_of_mayhem-1.9.8-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc5b3dbf024c89a4c97f05f2e67974edd36c5e6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7657453
+project-id = 1355251

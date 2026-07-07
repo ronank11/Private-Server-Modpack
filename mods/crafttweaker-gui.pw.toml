@@ -1,0 +1,13 @@
+name = "CraftTweaker GUI"
+filename = "ctgui-neoforge-1.21.1-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2710c3d306550f32b97e03c207c0c227a772650e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8187349
+project-id = 1006304

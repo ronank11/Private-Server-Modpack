@@ -1,0 +1,13 @@
+name = "Aeronautics:Wind Tunnel"
+filename = "windtunnel-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "232f6c18eb802bc2b763e097caf58637d343ab37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8118921
+project-id = 1535704

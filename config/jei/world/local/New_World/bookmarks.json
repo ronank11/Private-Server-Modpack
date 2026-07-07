@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"mega_showdown:mewtwonite_x"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:mewtwonite_y"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:latiosite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:latiasite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

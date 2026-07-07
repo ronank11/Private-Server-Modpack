@@ -1,0 +1,213 @@
+{
+    data: [],
+    palette: [],
+    changes: [
+        {
+            exported: 1b,
+            id: "ctgui/new/mega_showdown/steelixite_0",
+            oldSerializer: "minecraft:crafting_shaped",
+            originalId: "mega_showdown:steelixite",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    d: {
+                        item: "minecraft:diamond"
+                    },
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    m: {
+                        item: "cobblemon:metal_powder"
+                    },
+                    n: {
+                        item: "mega_showdown:mega_stone"
+                    }
+                },
+                pattern: [
+                    " m ",
+                    "ini",
+                    " d "
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:steelixite"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    d: {
+                        item: "minecraft:diamond"
+                    },
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    m: {
+                        item: "mega_showdown:mega_stone"
+                    },
+                    r: {
+                        item: "cobblemon:room_service"
+                    }
+                },
+                pattern: [
+                    " r ",
+                    "imi",
+                    " d "
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:steelixite"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/refinedstorage/controller_0",
+            oldSerializer: "minecraft:crafting_shaped",
+            originalId: "refinedstorage:controller",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "refinedstorage:advanced_processor"
+                    },
+                    m: {
+                        item: "refinedstorage:machine_casing"
+                    },
+                    q: {
+                        item: "refinedstorage:quartz_enriched_iron"
+                    },
+                    s: {
+                        tag: "c:silicon"
+                    }
+                },
+                pattern: [
+                    "qaq",
+                    "sms",
+                    "qsq"
+                ],
+                result: {
+                    count: 1,
+                    id: "refinedstorage:controller"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "refinedstorage:advanced_processor"
+                    },
+                    m: {
+                        item: "refinedstorage:machine_casing"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    q: {
+                        item: "refinedstorage:quartz_enriched_iron"
+                    },
+                    s: {
+                        tag: "c:silicon"
+                    }
+                },
+                pattern: [
+                    "qaq",
+                    "sms",
+                    "qnq"
+                ],
+                result: {
+                    count: 1,
+                    id: "refinedstorage:controller"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/betternether/blue_obsidian_tile_0",
+            recipe: {
+                category: "building",
+                group: "nether_blue_obsidian_tile",
+                key: {
+                    b: {
+                        item: "minecraft:blue_dye"
+                    },
+                    o: {
+                        item: "minecraft:obsidian"
+                    }
+                },
+                pattern: [
+                    "ooo",
+                    "obo",
+                    "ooo"
+                ],
+                result: {
+                    count: 8,
+                    id: "betternether:blue_obsidian"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/blue_crying_obsidian_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    b: {
+                        item: "betternether:blue_obsidian"
+                    },
+                    o: {
+                        item: "farmersdelight:onion"
+                    }
+                },
+                pattern: [
+                    "bbb",
+                    "bob",
+                    "bbb"
+                ],
+                result: {
+                    count: 8,
+                    id: "betternether:blue_crying_obsidian"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/blue_weeping_obsidian_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    b: {
+                        item: "betternether:blue_crying_obsidian"
+                    },
+                    g: {
+                        item: "minecraft:ghast_tear"
+                    }
+                },
+                pattern: [
+                    "bbb",
+                    "bgb",
+                    "bbb"
+                ],
+                result: {
+                    count: 1,
+                    id: "betternether:blue_weeping_obsidian"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        }
+    ]
+}

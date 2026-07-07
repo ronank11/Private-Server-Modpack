@@ -1,0 +1,13 @@
+name = "Aeronautics:Addition"
+filename = "aero_addition-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "446577102ad03017014c662079a927779f1e0f77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8103056
+project-id = 1539472

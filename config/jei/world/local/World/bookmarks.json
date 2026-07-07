@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"cobblemon:pokedex_black"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblenav:pokenav_item_base"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

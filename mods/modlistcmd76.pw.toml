@@ -1,0 +1,13 @@
+name = "ModList Command"
+filename = "modscmd-neoforge-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d6d853237f4f4bceb8937e34ac4b4f087228d00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6617029
+project-id = 1103376

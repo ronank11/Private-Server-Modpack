@@ -1,0 +1,357 @@
+{
+  "configVersion": 2,
+  "enabled": true,
+  "ballBonuses": {
+    "love": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 5,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "quick": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 0.75,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "safari": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 1
+    },
+    "dusk": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 5,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "ancient_wing": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 0.85,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "beast": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 2,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.25,
+      "itemLootRollsBonus": 0
+    },
+    "lure": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 10,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 0.8,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "ultra": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 2,
+      "baitSaveChance": 0.1,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "timer": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.05,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.15,
+      "itemLootRollsBonus": 0
+    },
+    "ancient_leaden": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 2,
+      "baitSaveChance": 0.05,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "repeat": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.1,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "heal": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.2,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "friend": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 5,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "dive": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 5,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "net": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 5,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "ancient_origin": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 5,
+      "rarityTierBonus": 3,
+      "baitSaveChance": 0.1,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "park": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 3,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "ancient_heavy": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.03,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "level": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "premier": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 2,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "cherish": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 2,
+      "baitSaveChance": 0.1,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.15,
+      "itemLootRollsBonus": 0
+    },
+    "ancient_feather": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 0.9,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "nest": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 3,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "ancient_gigaton": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 3,
+      "baitSaveChance": 0.07,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "poke": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "great": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "master": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 10,
+      "rarityTierBonus": 4,
+      "baitSaveChance": 0.25,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.5,
+      "itemLootRollsBonus": 0
+    },
+    "heavy": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.05,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "ancient_jet": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 0.8,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "moon": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 5,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "fast": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 0.85,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "dream": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 2,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 0
+    },
+    "luxury": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 1,
+      "baitSaveChance": 0.15,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.25,
+      "itemLootRollsBonus": 0
+    },
+    "sport": {
+      "extraLure": 0,
+      "extraLuck": 0,
+      "pokemonChanceBonus": 0,
+      "rarityTierBonus": 0,
+      "baitSaveChance": 0.0,
+      "biteTimeMultiplier": 1.0,
+      "itemLootLuckBonus": 0.0,
+      "itemLootRollsBonus": 1
+    }
+  },
+  "rodBonuses": {},
+  "defaultBonus": {
+    "extraLure": 0,
+    "extraLuck": 0,
+    "pokemonChanceBonus": 0,
+    "rarityTierBonus": 0,
+    "baitSaveChance": 0.0,
+    "biteTimeMultiplier": 1.0,
+    "itemLootLuckBonus": 0.0,
+    "itemLootRollsBonus": 0
+  }
+}

@@ -1,0 +1,13 @@
+name = "Cobblemon Fixed Starter IVs"
+filename = "fixedstarterivs-neoforge-1.7.3-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aae55f9b861b36a40261a4159fce644384c67483"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7571334
+project-id = 1062289

@@ -1,0 +1,13 @@
+name = "McMouser"
+filename = "mcmouser-1.21-neoforge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66358ff8bb2dc2b06abb79a54b51a415e5365d1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7126606
+project-id = 556331

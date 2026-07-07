@@ -1,0 +1,705 @@
+{
+    data: [],
+    palette: [],
+    changes: [
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/rusted_sword_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    q: {
+                        item: "minecraft:stick"
+                    },
+                    s: {
+                        item: "cobblemon:steel_gem"
+                    },
+                    w: {
+                        item: "minecraft:netherite_ingot"
+                    }
+                },
+                pattern: [
+                    "nwn",
+                    "sws",
+                    " q "
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:rusted_sword"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/rusted_shield_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    e: {
+                        item: "minecraft:nether_star"
+                    },
+                    f: {
+                        item: "cobblemon:fighting_gem"
+                    },
+                    n: {
+                        item: "minecraft:netherite_ingot"
+                    }
+                },
+                pattern: [
+                    "nfn",
+                    "nen",
+                    " n "
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:rusted_shield"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/gracidea_flower_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    f: {
+                        item: "cobblemon:flying_gem"
+                    },
+                    g: {
+                        item: "cobblemon:grass_gem"
+                    },
+                    m: {
+                        item: "cobblemon:mental_herb"
+                    },
+                    p: {
+                        item: "cobblemon:power_herb"
+                    },
+                    r: {
+                        item: "cobblemon:revival_herb"
+                    },
+                    v: {
+                        item: "cobblemon:vivichoke"
+                    },
+                    w: {
+                        item: "cobblemon:white_herb"
+                    }
+                },
+                pattern: [
+                    "grf",
+                    "mvw",
+                    "fpg"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:gracidea_flower"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/wellspring_mask_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    s: {
+                        item: "cobblemon:sky_tumblestone"
+                    },
+                    w: {
+                        item: "cobblemon:water_gem"
+                    }
+                },
+                pattern: [
+                    "sws",
+                    "wnw",
+                    "sws"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:wellspring_mask"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/cornerstone_mask_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    b: {
+                        item: "cobblemon:black_tumblestone"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    r: {
+                        item: "cobblemon:rock_gem"
+                    }
+                },
+                pattern: [
+                    "brb",
+                    "rnr",
+                    "brb"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:cornerstone_mask"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/hearthflame_mask_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    f: {
+                        item: "cobblemon:fire_gem"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    t: {
+                        item: "cobblemon:tumblestone"
+                    }
+                },
+                pattern: [
+                    "tft",
+                    "fnf",
+                    "tft"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:hearthflame_mask"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/reveal_glass_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    e: {
+                        item: "cobblemon:electric_gem"
+                    },
+                    f: {
+                        item: "cobblemon:flying_gem"
+                    },
+                    g: {
+                        item: "minecraft:feather"
+                    },
+                    m: {
+                        item: "minecraft:glass_pane"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    s: {
+                        item: "cobblemon:ground_gem"
+                    }
+                },
+                pattern: [
+                    "fgf",
+                    "sme",
+                    "fnf"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:reveal_glass"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/prison_bottle_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    b: {
+                        item: "cobblemon:black_tumblestone"
+                    },
+                    d: {
+                        item: "cobblemon:dark_gem"
+                    },
+                    g: {
+                        item: "minecraft:glass_bottle"
+                    },
+                    m: {
+                        item: "cobblemon:moon_stone"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    p: {
+                        item: "cobblemon:psychic_gem"
+                    }
+                },
+                pattern: [
+                    "pmd",
+                    "bnb",
+                    "dgp"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:prison_bottle"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/mega_showdown/steelixite_0",
+            originalId: "mega_showdown:steelixite",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    d: {
+                        item: "minecraft:diamond"
+                    },
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    m: {
+                        item: "cobblemon:metal_powder"
+                    },
+                    v: {
+                        item: "mega_showdown:mega_stone"
+                    }
+                },
+                pattern: [
+                    " m ",
+                    "ivi",
+                    " d "
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:steelixite"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    d: {
+                        item: "minecraft:diamond"
+                    },
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    m: {
+                        item: "mega_showdown:mega_stone"
+                    },
+                    r: {
+                        item: "cobblemon:room_service"
+                    }
+                },
+                pattern: [
+                    " r ",
+                    "imi",
+                    " d "
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:steelixite"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/crafting/adamant_crystal_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "mega_showdown:adamant_orb"
+                    },
+                    d: {
+                        item: "mega_showdown:sparkling_stone_dark"
+                    },
+                    e: {
+                        item: "cobblemon:dragon_gem"
+                    },
+                    l: {
+                        item: "cobblemon:steel_gem"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    s: {
+                        item: "cobblemon:sky_tumblestone"
+                    }
+                },
+                pattern: [
+                    "sds",
+                    "lne",
+                    "sas"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:adamant_crystal"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/crafting/lustrous_globe_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    c: {
+                        item: "mega_showdown:sparkling_stone_light"
+                    },
+                    d: {
+                        item: "cobblemon:dragon_gem"
+                    },
+                    l: {
+                        item: "mega_showdown:lustrous_orb"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    s: {
+                        item: "cobblemon:sky_tumblestone"
+                    },
+                    w: {
+                        item: "cobblemon:water_gem"
+                    }
+                },
+                pattern: [
+                    "scs",
+                    "wnd",
+                    "sls"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:lustrous_globe"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/crafting/star_core_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    w: {
+                        item: "mega_showdown:wishing_star"
+                    }
+                },
+                pattern: [
+                    "nnn",
+                    "nwn",
+                    "nnn"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:star_core"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/crafting/griseous_core_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    c: {
+                        item: "mega_showdown:griseous_orb"
+                    },
+                    d: {
+                        item: "cobblemon:dragon_gem"
+                    },
+                    g: {
+                        item: "cobblemon:ghost_gem"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    s: {
+                        item: "mega_showdown:sparkling_stone_light"
+                    },
+                    t: {
+                        item: "cobblemon:tumblestone"
+                    }
+                },
+                pattern: [
+                    "tst",
+                    "gnd",
+                    "tct"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:griseous_core"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/crafting/griseous_core_1",
+            recipe: {
+                category: "misc",
+                key: {
+                    d: {
+                        item: "cobblemon:dragon_gem"
+                    },
+                    g: {
+                        item: "cobblemon:ghost_gem"
+                    },
+                    i: {
+                        item: "mega_showdown:griseous_orb"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    s: {
+                        item: "mega_showdown:sparkling_stone_dark"
+                    },
+                    t: {
+                        item: "cobblemon:tumblestone"
+                    }
+                },
+                pattern: [
+                    "tst",
+                    "gnd",
+                    "tit"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:griseous_core"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/mega_showdown/n_lunarizer_0",
+            originalId: "mega_showdown:n_lunarizer",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    l: {
+                        item: "minecraft:light_blue_wool"
+                    },
+                    m: {
+                        item: "cobblemon:moon_stone"
+                    },
+                    r: {
+                        item: "minecraft:redstone"
+                    }
+                },
+                pattern: [
+                    "ili",
+                    "imi",
+                    "iri"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:n_lunarizer"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    m: {
+                        item: "cobblemon:moon_stone"
+                    },
+                    r: {
+                        item: "minecraft:redstone"
+                    },
+                    s: {
+                        item: "mega_showdown:sparkling_stone_dark"
+                    }
+                },
+                pattern: [
+                    "isi",
+                    "imi",
+                    "iri"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:n_lunarizer"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/mega_showdown/n_solarizer_0",
+            originalId: "mega_showdown:n_solarizer",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    o: {
+                        item: "minecraft:orange_wool"
+                    },
+                    r: {
+                        item: "minecraft:redstone"
+                    },
+                    s: {
+                        item: "cobblemon:sun_stone"
+                    }
+                },
+                pattern: [
+                    "ioi",
+                    "isi",
+                    "iri"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:n_solarizer"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    r: {
+                        item: "minecraft:redstone"
+                    },
+                    s: {
+                        item: "mega_showdown:sparkling_stone_light"
+                    },
+                    x: {
+                        item: "cobblemon:sun_stone"
+                    }
+                },
+                pattern: [
+                    "isi",
+                    "ixi",
+                    "iri"
+                ],
+                result: {
+                    count: 1,
+                    id: "mega_showdown:n_solarizer"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/refinedstorage/controller_0",
+            originalId: "refinedstorage:controller",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "refinedstorage:advanced_processor"
+                    },
+                    m: {
+                        item: "refinedstorage:machine_casing"
+                    },
+                    q: {
+                        item: "refinedstorage:quartz_enriched_iron"
+                    },
+                    s: {
+                        tag: "c:silicon"
+                    }
+                },
+                pattern: [
+                    "qaq",
+                    "sms",
+                    "qsq"
+                ],
+                result: {
+                    count: 1,
+                    id: "refinedstorage:controller"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "refinedstorage:advanced_processor"
+                    },
+                    m: {
+                        item: "refinedstorage:machine_casing"
+                    },
+                    n: {
+                        item: "minecraft:nether_star"
+                    },
+                    q: {
+                        item: "refinedstorage:quartz_enriched_iron"
+                    },
+                    s: {
+                        tag: "c:silicon"
+                    }
+                },
+                pattern: [
+                    "qaq",
+                    "sms",
+                    "qnq"
+                ],
+                result: {
+                    count: 1,
+                    id: "refinedstorage:controller"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        }
+    ]
+}

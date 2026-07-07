@@ -1,0 +1,13 @@
+name = "CobbleRods"
+filename = "CobbleRods-neoforge-1.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82ae39b227f223d74d0a9cfc93a4aa7e4f2e3ee5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7671054
+project-id = 1459660
