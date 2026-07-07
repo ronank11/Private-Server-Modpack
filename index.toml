@@ -3850,6 +3850,10 @@ hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "resourcepacks/ATM x MSD [v3.6.0] (2).zip"
 hash = "9298d0ae087f0041479f55d7d0870e31334174e994bd0cfc39c1090fb4115ec3"
 
