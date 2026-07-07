@@ -1,1 +1,13 @@
-name = "Athena"filename = "athena-neoforge-1.21.1-4.0.6.jar"   # ← Change to exact filename you downloadedside = "both"[download]url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"   # Optional: direct URL if you want packwiz to redownload ithash-format = "sha512"hash = "AB40A306A26CE834DAAE921A1E87768CD2538A4BFE27A4480F97AF854084CC334E7416B1BD0B7583834A32A86951283F29FD4B1DF7B            98A967A6B26A3EC05E2CF"                           # Optional but recommended# If you want to skip hash/download and just use local file:# [update]# modrinth = { "mod-id" = "b1ZV3DIJ", "version" = "latest" }  # Use the real Modrinth project
+name = "Athena"
+filename = "athena-neoforge-1.21.1-4.0.6.jar"   # ← Change to exact filename you downloaded
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"   # Optional: direct URL if you want packwiz to redownload it
+hash-format = "sha512"
+hash = "AB40A306A26CE834DAAE921A1E87768CD2538A4BFE27A4480F97AF854084CC334E7416B1BD0B7583834A32A86951283F29FD4B1DF7B
+            98A967A6B26A3EC05E2CF"                           # Optional but recommended
+
+# If you want to skip hash/download and just use local file:
+# [update]
+# modrinth = { "mod-id" = "b1ZV3DIJ", "version" = "latest" }  # Use the real Modrinth project
