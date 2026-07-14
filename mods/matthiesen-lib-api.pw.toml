@@ -1,6 +1,6 @@
 name = "Matthiesen Lib API"
 filename = "matthiesen-lib-api-neoforge-1.11.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/j2JrSWnx/versions/mIU5vyW5/matthiesen-lib-api-neoforge-1.11.0.jar"

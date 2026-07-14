@@ -2526,10 +2526,6 @@ file = "datapacks/ATM x MSD [v3.6.0].zip"
 hash = "9298d0ae087f0041479f55d7d0870e31334174e994bd0cfc39c1090fb4115ec3"
 
 [[files]]
-file = "mods/# 1. Refresh packwiz metadata (upda.txt"
-hash = "3f76c93eb49fa08bc9fb961d15c4263d2ae816c22707fd755f55f6ef8527e98d"
-
-[[files]]
 file = "mods/AiosSuperCoolRecipesV1.0.1.zip"
 hash = "aaaa902e187ba4fbecb40e35bb9ae79752408952313f9aff4d226939106a2d49"
 
@@ -2780,7 +2776,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "48550cdd457c547a20ae91bd4c3d56aa40f78fcd969ef677ae0e42b01c4ebcea"
+hash = "4211dd9eed65d9599cb1df61f5db373772ed090aa837a17f2fb7dc9c46a8aa2b"
 metafile = true
 
 [[files]]
@@ -3455,7 +3451,7 @@ metafile = true
 
 [[files]]
 file = "mods/matthiesen-lib-api.pw.toml"
-hash = "716a5a25b277b6c7426a344fe3dec06d02c9f82955753669e4f65b90722e1c27"
+hash = "9835d2b0453c44486b65f1d4777bc5e8d423cfb3f1106923dd26d99eb4d5365f"
 metafile = true
 
 [[files]]
@@ -3550,7 +3546,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
 metafile = true
 
 [[files]]
@@ -3601,6 +3597,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "c5f891f486c303cae5fb41223bdc54e8c8c9da259f5c950c23df8b8ebdc40eea"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
 metafile = true
 
 [[files]]
