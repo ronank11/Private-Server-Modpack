@@ -3452,7 +3452,7 @@ metafile = true
 
 [[files]]
 file = "mods/matthiesen-lib.pw.toml"
-hash = "a2305bd9fde7a98e8915397f9ecbf8bdc075440c1e2686ed5fa6b6858cb7570f"
+hash = "e145d40ce6a1b3f869ea83f9d66738c14982ae7cd02f779a18ae0439f9bada20"
 metafile = true
 
 [[files]]

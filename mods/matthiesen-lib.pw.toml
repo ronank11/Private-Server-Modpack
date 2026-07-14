@@ -1,5 +1,5 @@
 name = "Matthiesen Lib"
-filename = "matthiesen-lib-neoforge-1.11.1.jar"
+filename = "matthiesen-lib-neoforge-1.5.7.jar"
 side = "both"
 
 [download]
@@ -10,4 +10,4 @@ hash = "4db217256aea8dcac62a81a01fcdde7c03be20e2f9343e1714a9716c126da3576ad20cbb
 [update]
 [update.modrinth]
 mod-id = "cPmFkPpB"
-version = "xyZAXV9i"
+version = "XyJF8EEL"
