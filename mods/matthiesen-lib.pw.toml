@@ -3,9 +3,9 @@ filename = "matthiesen-lib-neoforge-1.5.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cPmFkPpB/versions/xyZAXV9i/matthiesen-lib-neoforge-1.11.1.jar"
+url = "https://cdn.modrinth.com/data/cPmFkPpB/versions/XyJF8EEL/matthiesen-lib-neoforge-1.5.7.jar"
 hash-format = "sha512"
-hash = "4db217256aea8dcac62a81a01fcdde7c03be20e2f9343e1714a9716c126da3576ad20cbb7c6e11363b21bc3544bb1c49c196ada30fdcfc473f3a4f844c1a7059"
+hash = "63716E08ADBE5087F1EE0908945825B37520CA114CC07DC64DA375F7D6E94DC98655396020609D8A05F6FBCE25FD67C5E4EAC8A72ABB973ADC3AD3A2052239DF"
 
 [update]
 [update.modrinth]
