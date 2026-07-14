@@ -1,13 +1,13 @@
 name = "Matthiesen Lib"
-filename = "matthiesen-lib-neoforge-1.5.7.jar"
+filename = "matthiesen-lib-neoforge-1.11.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cPmFkPpB/versions/990ueBcd/matthiesen-lib-neoforge-1.11.0.jar"
+url = "https://cdn.modrinth.com/data/cPmFkPpB/versions/xyZAXV9i/matthiesen-lib-neoforge-1.11.1.jar"
 hash-format = "sha512"
-hash = "1d76ee5f8ce77eaf7022807c4db13c8eeb91cbb51337e9a48cab8653d37d0de8d682294c24cc3800b830595196c2c728d1db1daaca10790e5dcd624b328d9ae1"
+hash = "4db217256aea8dcac62a81a01fcdde7c03be20e2f9343e1714a9716c126da3576ad20cbb7c6e11363b21bc3544bb1c49c196ada30fdcfc473f3a4f844c1a7059"
 
 [update]
 [update.modrinth]
 mod-id = "cPmFkPpB"
-version = "990ueBcd"
+version = "xyZAXV9i"
