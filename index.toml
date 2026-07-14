@@ -2526,6 +2526,10 @@ file = "datapacks/ATM x MSD [v3.6.0].zip"
 hash = "9298d0ae087f0041479f55d7d0870e31334174e994bd0cfc39c1090fb4115ec3"
 
 [[files]]
+file = "mods/# 1. Refresh packwiz metadata (upda.txt"
+hash = "3f76c93eb49fa08bc9fb961d15c4263d2ae816c22707fd755f55f6ef8527e98d"
+
+[[files]]
 file = "mods/AiosSuperCoolRecipesV1.0.1.zip"
 hash = "aaaa902e187ba4fbecb40e35bb9ae79752408952313f9aff4d226939106a2d49"
 
@@ -2546,7 +2550,7 @@ metafile = true
 
 [[files]]
 file = "mods/addonslib.pw.toml"
-hash = "cd5bb0369a1ea609945a21790acfc00a3785dc44b3692b6ec4e3769b8ecc66df"
+hash = "834f0a3bf0d7556e1009fb1f23bc77d99dab0704c226d4ce766a78b8838791a7"
 metafile = true
 
 [[files]]
@@ -2776,7 +2780,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "7037595acf8de74a22f043f5a5894ced2b876ae26b2f148c8b7008de248c5151"
+hash = "48550cdd457c547a20ae91bd4c3d56aa40f78fcd969ef677ae0e42b01c4ebcea"
 metafile = true
 
 [[files]]
@@ -3255,6 +3259,11 @@ hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
 file = "mods/free-camera-api.pw.toml"
 hash = "56e592325634fe8cfb5074beceaeb1b12dbf01972eb5f0cf10d7a659a50c7771"
 metafile = true
@@ -3446,7 +3455,7 @@ metafile = true
 
 [[files]]
 file = "mods/matthiesen-lib-api.pw.toml"
-hash = "876f38236b97b4279c2ea4fa8f93c13be755e0e5c5da417c898722b8cdf1185e"
+hash = "716a5a25b277b6c7426a344fe3dec06d02c9f82955753669e4f65b90722e1c27"
 metafile = true
 
 [[files]]
@@ -3667,6 +3676,16 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "918104735fe4da7e223394b5f76c0f063178b34e653fab7135ce451fd08d0746"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
