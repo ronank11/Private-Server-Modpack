@@ -3600,11 +3600,6 @@ hash = "c5f891f486c303cae5fb41223bdc54e8c8c9da259f5c950c23df8b8ebdc40eea"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage-curios-integration.pw.toml"
 hash = "ce6f405d86fa560f11825b1c92ac8ffe27e5d8b5e1e576ca9b464bb35bbe6c7a"
 metafile = true
@@ -3682,11 +3677,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
